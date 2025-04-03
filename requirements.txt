@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python  # If needed for image preprocessing
+pytesseract    # For OCR
+pdf2image      # For converting PDF pages to images
+transformers
+torch
+fastapi
+uvicorn
+tabula-py      # or camelot-py for PDF table extraction if you prefer
